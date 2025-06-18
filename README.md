@@ -5,14 +5,14 @@ The project focuses on analyzing agricultural and environmental data collected t
 ## Dataset Features
 The dataset includes the following environmental and communication performance measurements:
 
-Temperature (°C):
+- Temperature (°C):
 Measures the ambient air temperature at the sensor node.
 
-Humidity (%):
+- Humidity (%):
 Represents the percentage of water vapor in the air, affecting plant transpiration and evaporation.
 
-Soil Moisture (%):
+- Soil Moisture (%):
 Indicates the volumetric water content in the soil, critical for irrigation planning.
 
-Received Signal Strength Indicator (RSSI):
+- Received Signal Strength Indicator (RSSI):
 Reflects the quality of the wireless signal received by the sensor node, typically measured in dBm. Useful for evaluating the performance of communication protocols like BLE or ESP-NOW.
